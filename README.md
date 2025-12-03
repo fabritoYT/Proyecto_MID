@@ -1,2 +1,2 @@
-# Proyecto_MID
-Proyecto Final - Minería de Datos
+# Proyecto_SCD
+ Proyecto - Sociedad y Desarrollo Sostenible
